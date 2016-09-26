@@ -16,8 +16,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-import ca.uwaterloo.Lab2_201_10.lab2.R;
-import ca.uwaterloo.sensortoy.*;
+
 
 public class MainActivity extends Activity {	
 	@Override
